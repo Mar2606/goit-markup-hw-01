@@ -1,0 +1,156 @@
+:root {
+  --font-family: 'Roboto', sans-serif;
+  --second-family: 'Raleway', sans-serif;
+}
+
+body {
+  font-family: 'Raleway', 'Roboto', sans-serif;
+}
+
+
+
+.logo {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 18 px;
+  line-height: 1 1.6667;
+  letter-spacing: 0 03 em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #2e2f42;
+}
+
+.icon {
+  font-weight: 700;
+  line-height: 1 1.6667;
+  letter-spacing: 0 03 em;
+  color: #4d5ae5;
+}
+
+.nav-list {
+  list-style: none;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16 px;
+  line-height: 1.5;
+  letter-spacing: 0 02 em;
+}
+.nav {
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.contact {
+  list-style: none;
+}
+
+.info {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16 px;
+  line-height: 1.5;
+  letter-spacing: 0.02 em;
+  text-decoration: none;
+  color: #434455;
+}
+.bg-line {
+  background-color: #2e2f42;
+}
+.bnt {
+  background-color: #4d5ae5;
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 16 px;
+  line-height: 1.5;
+  letter-spacing: 0.04 em;
+  color: #fff;
+}
+
+.bnt:hover,
+:focus {
+  background-color: #4d5ae5;
+  color: #fff;
+}
+
+.image-computer {
+  list-style: none;
+}
+.picture {
+  background-color: #f4f4fd;
+  width: 1440 px;
+  height: 732 px;
+  list-style: none;
+}
+h1 {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-style: 53 px;
+  line-height: 1 0.07143;
+  font-style: 53 px;
+  line-height: 1 0.07143;
+  color: #fff;
+}
+h3 {
+  font-family: var(--font-family);
+  font-weight: 500;
+  font-size: 20 px;
+  line-height: 1.2;
+  letter-spacing: 0.02 em;
+  color: #2e2f42;
+}
+
+h2 {
+  font-family: var(--font-family);
+  font-weight: 700;
+  font-size: 36 px;
+  line-height: 1 0.11111;
+  letter-spacing: 0.02 em;
+  text-transform: capitalize;
+}
+
+p {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16 px;
+  line-height: 1.5;
+  letter-spacing: 0.02 em;
+  color: #434455;
+  color: #2e2f42;
+}
+
+.image {
+  background-color: #fff;
+}
+
+.imprint {
+  background-color: #2e2f42;
+  width: 1440 px;
+  height: 312 px;
+}
+.imprint p {
+  color: #fff;
+}
+
+.logo-second {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 18 px;
+  line-height: 1 1.6667;
+  letter-spacing: 0.03 em;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #f4f4fd;
+}
+.icon-second {
+  font-family: var(--second-family);
+  font-weight: 700;
+  font-size: 18 px;
+  line-height: 1 1.16667;
+  letter-spacing: 0 0.3 em;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.picture-second {
+  background-color: #fff;
+  list-style: none;
+}
