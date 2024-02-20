@@ -12,18 +12,19 @@ body {
 .logo {
   font-family: var(--second-family);
   font-weight: 700;
-  font-size: 18 px;
-  line-height: 1 0.17;
-  letter-spacing: 0.03 em;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #2e2f42;
 }
 
 .icon {
+  font-family: var(--second-family);
   font-weight: 700;
-  line-height: 1 0.17;
-  font-size: 18 px;
-  letter-spacing: 0.03 em;
+  line-height: 1.17;
+  font-size: 18px;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
   color: #4d5ae5;
@@ -33,15 +34,15 @@ body {
   list-style: none;
   font-family: var(--font-family);
   font-weight: 500;
-  font-size: 16 px;
+  font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0 02 em;
+  letter-spacing: 0 02em;
 }
 .nav {
   font-weight: 500;
-  font-size: 16 px;
+  font-size: 16px;
   line-height: 1.5;
-  letter-spacing: 0.02 em;
+  letter-spacing: 0.02em;
   color: #2e2f42;
   text-decoration: none;
 }
@@ -84,7 +85,7 @@ body {
   font-weight: 500;
   font-size: 16 px;
   line-height: 1.5;
-  letter-spacing: 0.04 em;
+  letter-spacing: 0.04em;
   cursor: pointer;
   color: #fff;
 }
@@ -106,18 +107,16 @@ body {
 }
 .picture {
   background-color: #f4f4fd;
-  width: 1440 px;
-  height: 732 px;
   list-style: none;
 }
 h1 {
   font-family: var(--font-family);
   font-weight: 700;
-  font-style: 56 px;
+  font-style: 56px;
   line-height: 1.07;
   font-style: 53 px;
   text-align: center;
-  letter-spacing: 0.02 em;
+  letter-spacing: 0.02em;
   line-height: 1 0.07143;
   color: #fff;
 }
@@ -155,8 +154,7 @@ p {
 
 .imprint {
   background-color: #2e2f42;
-  width: 1440 px;
-  height: 312 px;
+
 }
 .imprint p {
   color: #fff;
@@ -165,9 +163,9 @@ p {
 .logo-second {
   font-family: var(--second-family);
   font-weight: 700;
-  font-size: 18 px;
+  font-size: 18px;
   line-height: 1.17;
-  letter-spacing: 0.03 em;
+  letter-spacing: 0.03em;
   text-transform: uppercase;
   text-decoration: none;
   color:#4d5ae5; ;
@@ -177,7 +175,7 @@ p {
   font-weight: 700;
   font-size: 18 px;
   line-height: 1 1.16667;
-  letter-spacing: 0. em;
+  letter-spacing: 0.2em;
   text-transform: uppercase;
   color: #f4f4fd;
   
