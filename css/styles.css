@@ -46,12 +46,20 @@ body {
   color: #2e2f42;
   text-decoration: none;
 }
+.navigation-first{
+  font-weight: 500;
+  font-size: 16 px;
+  line-height: 1.5;
+  letter-spacing: 0.02 em;
+  text-decoration: none;
+  color: #2e2f42;
+}
 
-.nav:hover {
+.navigation-first:hover {
   color: #404bbf;
 }
 
-.nav:focus {
+.navigation-first:focus {
   color: #404bbf;
 }
 
@@ -85,7 +93,7 @@ body {
   font-weight: 500;
   font-size: 16 px;
   line-height: 1.5;
-  letter-spacing: 0.04 em;
+  letter-spacing: 0.04em;
   cursor: pointer;
   color: #fff;
 }
@@ -112,11 +120,11 @@ body {
 .main-headline {
   font-family: var(--font-family);
   font-weight: 700;
-  font-style: 56 px;
+  font-style: 56px;
   line-height: 1.07;
-  font-style: 53 px;
+  font-style: 53px;
   text-align: center;
-  letter-spacing: 0.02 em;
+  letter-spacing: 0.02em;
   line-height: 1 0.07143;
   color: #fff;
 }
@@ -133,7 +141,8 @@ h3 {
   font-family: var(--font-family);
   font-weight: 700;
   font-size: 36 px;
-  line-height: 1 0.11111;
+  line-height: 1.11;
+  text-align: center;
   letter-spacing: 0.02 em;
   text-transform: capitalize;
 }
@@ -147,6 +156,8 @@ p {
   color: #434455;
   color: #2e2f42;
 }
+
+.portfolio-text{background-color: #f4f4fd;}
 
 .image {
   background-color: #fff;
@@ -180,6 +191,10 @@ p {
   color: #f4f4fd;
   
 }
+
+.small-text{ color:#f4f4fd;
+letter-spacing: 0.02em;}
+
 .picture-second {
   background-color: #fff;
   list-style: none;
